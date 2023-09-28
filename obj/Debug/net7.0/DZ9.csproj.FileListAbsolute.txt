@@ -1,0 +1,14 @@
+D:\Projects c#\Seminary\DZ9\bin\Debug\net7.0\DZ9.exe
+D:\Projects c#\Seminary\DZ9\bin\Debug\net7.0\DZ9.deps.json
+D:\Projects c#\Seminary\DZ9\bin\Debug\net7.0\DZ9.runtimeconfig.json
+D:\Projects c#\Seminary\DZ9\bin\Debug\net7.0\DZ9.dll
+D:\Projects c#\Seminary\DZ9\bin\Debug\net7.0\DZ9.pdb
+D:\Projects c#\Seminary\DZ9\obj\Debug\net7.0\DZ9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects c#\Seminary\DZ9\obj\Debug\net7.0\DZ9.AssemblyInfoInputs.cache
+D:\Projects c#\Seminary\DZ9\obj\Debug\net7.0\DZ9.AssemblyInfo.cs
+D:\Projects c#\Seminary\DZ9\obj\Debug\net7.0\DZ9.csproj.CoreCompileInputs.cache
+D:\Projects c#\Seminary\DZ9\obj\Debug\net7.0\DZ9.dll
+D:\Projects c#\Seminary\DZ9\obj\Debug\net7.0\refint\DZ9.dll
+D:\Projects c#\Seminary\DZ9\obj\Debug\net7.0\DZ9.pdb
+D:\Projects c#\Seminary\DZ9\obj\Debug\net7.0\DZ9.genruntimeconfig.cache
+D:\Projects c#\Seminary\DZ9\obj\Debug\net7.0\ref\DZ9.dll
